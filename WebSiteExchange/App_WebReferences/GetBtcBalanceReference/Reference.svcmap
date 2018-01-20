@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="c3604b5e-0c65-4f01-9bcb-b0d545a1d696" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:6174/GetBtcBalance.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="GetBtcBalance.xsd" MetadataType="Schema" ID="b8fac469-501e-4f21-ae66-2ddb5a328438" SourceId="1" SourceUrl="http://localhost:6174/GetBtcBalance.svc?xsd=xsd1" />
+    <MetadataFile FileName="GetBtcBalance.disco" MetadataType="Disco" ID="fed42262-7754-4e3a-aa0f-76eb3331f76a" SourceId="1" SourceUrl="http://localhost:6174/GetBtcBalance.svc?disco" />
+    <MetadataFile FileName="GetBtcBalance.wsdl" MetadataType="Wsdl" ID="df60c78d-7338-45cc-be3b-86444d1f5142" SourceId="1" SourceUrl="http://localhost:6174/GetBtcBalance.svc?wsdl" />
+    <MetadataFile FileName="GetBtcBalance1.xsd" MetadataType="Schema" ID="811b8ba5-ce21-42cf-81f8-a6444712e622" SourceId="1" SourceUrl="http://localhost:6174/GetBtcBalance.svc?xsd=xsd0" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>

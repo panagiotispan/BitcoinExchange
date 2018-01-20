@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="95addbf9-63a6-43fc-8b2e-ff5b1f626eb1" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="http://localhost:12996/TryLogin.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="TryLogin.xsd" MetadataType="Schema" ID="5ea7013a-e93d-4dfd-aa2d-d6073d3eb4d6" SourceId="1" SourceUrl="http://localhost:12996/TryLogin.svc?xsd=xsd2" />
+    <MetadataFile FileName="TryLogin1.xsd" MetadataType="Schema" ID="42868abf-3e11-4eb9-b170-3067f9b03aa7" SourceId="1" SourceUrl="http://localhost:12996/TryLogin.svc?xsd=xsd1" />
+    <MetadataFile FileName="TryLogin.wsdl" MetadataType="Wsdl" ID="a5622edc-96c4-436b-89af-03b39e139ba4" SourceId="1" SourceUrl="http://localhost:12996/TryLogin.svc?wsdl" />
+    <MetadataFile FileName="TryLogin2.xsd" MetadataType="Schema" ID="e4d6f2e4-03d3-47ff-8d7e-4d7f3493a312" SourceId="1" SourceUrl="http://localhost:12996/TryLogin.svc?xsd=xsd0" />
+    <MetadataFile FileName="TryLogin.disco" MetadataType="Disco" ID="e53083fc-73f7-447b-84d7-98519b6d1933" SourceId="1" SourceUrl="http://localhost:12996/TryLogin.svc?disco" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
