@@ -15,38 +15,41 @@ namespace UtilityWebServices
     {
         public string DoWork()
         {
-            HttpWebRequest request = HttpWebRequest.CreateHttp("https://www.bitstamp.net/api/ticker/");
-            request.MaximumAutomaticRedirections = 4;
-            request.MaximumResponseHeadersLength = 4;
-            request.AllowAutoRedirect = true;
-            request.KeepAlive = true;
-            request.Method = "GET";
-            request.Timeout = 2000;
 
-            request.Credentials = CredentialCache.DefaultCredentials;
+            try
+            {
+                HttpWebRequest request = HttpWebRequest.CreateHttp("https://www.bitstamp.net/api/ticker/");
+                request.MaximumAutomaticRedirections = 4;
+                request.MaximumResponseHeadersLength = 4;
+                request.AllowAutoRedirect = true;
+                request.KeepAlive = true;
+                request.Method = "GET";
+                request.Timeout = 2000;
 
-            HttpWebResponse response = (HttpWebResponse)request.GetResponse();
+                request.Credentials = CredentialCache.DefaultCredentials;
 
-            Stream receiveStream = response.GetResponseStream();
-            // Pipes the stream to a higher level stream reader with the required encoding format. 
-            StreamReader readStream = new StreamReader(receiveStream, Encoding.Default);
+                HttpWebResponse response = (HttpWebResponse)request.GetResponse();
 
+                Stream receiveStream = response.GetResponseStream();
+                // Pipes the stream to a higher level stream reader with the required encoding format. 
+                StreamReader readStream = new StreamReader(receiveStream, Encoding.Default);
 
-            String data = readStream.ReadToEnd();
+                String data = readStream.ReadToEnd();
 
+                int Start = data.IndexOf("\"last\": \"", 0) + 9;
+                int End = data.IndexOf("\", \"timestamp\":", 0);
 
+                String price = data.Substring(Start, End - Start);
 
-            int Start = data.IndexOf("\"last\": \"", 0) + 9;
-            int End = data.IndexOf("\", \"timestamp\":", 0);
+                response.Close();
+                readStream.Close();
 
-            String price = data.Substring(Start, End - Start);
-
-            
-
-            response.Close();
-            readStream.Close();
-
-            return price;
+                return price;
+            }
+            catch (Exception)
+            {
+                return "Http request Failed!";
+            }           
         }
     }
 }

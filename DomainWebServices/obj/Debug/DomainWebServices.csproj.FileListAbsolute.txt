@@ -1,0 +1,142 @@
+C:\Users\Takis\source\repos\LoginOperations\DomainWebServices\bin\DomainWebServices.dll.config
+C:\Users\Takis\source\repos\LoginOperations\DomainWebServices\bin\DomainWebServices.dll
+C:\Users\Takis\source\repos\LoginOperations\DomainWebServices\bin\DomainWebServices.pdb
+C:\Users\Takis\source\repos\LoginOperations\DomainWebServices\bin\MySql.Data.dll
+C:\Users\Takis\source\repos\LoginOperations\DomainWebServices\bin\MySql.Data.xml
+C:\Users\Takis\source\repos\LoginOperations\DomainWebServices\obj\Debug\DomainWebServices.csproj.CoreCompileInputs.cache
+C:\Users\Takis\source\repos\LoginOperations\DomainWebServices\obj\Debug\DomainWebServices.dll
+C:\Users\Takis\source\repos\LoginOperations\DomainWebServices\obj\Debug\DomainWebServices.pdb
+C:\Users\Takis\source\repos\LoginOperations\DomainWebServices\obj\Debug\DomainWebServices.csprojResolveAssemblyReference.cache
+F:\Desktop\WebService ergastio 7 backup\LoginOperations\DomainWebServices\bin\DomainWebServices.dll.config
+F:\Desktop\WebService ergastio 7 backup\LoginOperations\DomainWebServices\bin\DomainWebServices.dll
+F:\Desktop\WebService ergastio 7 backup\LoginOperations\DomainWebServices\bin\DomainWebServices.pdb
+F:\Desktop\WebService ergastio 7 backup\LoginOperations\DomainWebServices\bin\MySql.Data.dll
+F:\Desktop\WebService ergastio 7 backup\LoginOperations\DomainWebServices\bin\MySql.Data.xml
+F:\Desktop\WebService ergastio 7 backup\LoginOperations\DomainWebServices\obj\Debug\DomainWebServices.csprojResolveAssemblyReference.cache
+F:\Desktop\WebService ergastio 7 backup\LoginOperations\DomainWebServices\obj\Debug\DomainWebServices.csproj.CoreCompileInputs.cache
+F:\Desktop\WebService ergastio 7 backup\LoginOperations\DomainWebServices\obj\Debug\DomainWebServices.dll
+F:\Desktop\WebService ergastio 7 backup\LoginOperations\DomainWebServices\obj\Debug\DomainWebServices.pdb
+F:\Desktop\ADAPTERS TEST\WebService ergastio 7 backup\LoginOperations\DomainWebServices\bin\DomainWebServices.dll.config
+F:\Desktop\ADAPTERS TEST\WebService ergastio 7 backup\LoginOperations\DomainWebServices\bin\DomainWebServices.dll
+F:\Desktop\ADAPTERS TEST\WebService ergastio 7 backup\LoginOperations\DomainWebServices\bin\DomainWebServices.pdb
+F:\Desktop\ADAPTERS TEST\WebService ergastio 7 backup\LoginOperations\DomainWebServices\bin\MySql.Data.dll
+F:\Desktop\ADAPTERS TEST\WebService ergastio 7 backup\LoginOperations\DomainWebServices\bin\MySql.Data.xml
+F:\Desktop\ADAPTERS TEST\WebService ergastio 7 backup\LoginOperations\DomainWebServices\obj\Debug\DomainWebServices.csprojResolveAssemblyReference.cache
+F:\Desktop\ADAPTERS TEST\WebService ergastio 7 backup\LoginOperations\DomainWebServices\obj\Debug\DomainWebServices.csproj.CoreCompileInputs.cache
+F:\Desktop\ADAPTERS TEST\WebService ergastio 7 backup\LoginOperations\DomainWebServices\obj\Debug\DomainWebServices.dll
+F:\Desktop\ADAPTERS TEST\WebService ergastio 7 backup\LoginOperations\DomainWebServices\obj\Debug\DomainWebServices.pdb
+F:\Desktop\ADAPTERS TEST\LoginOperations\DomainWebServices\bin\DomainWebServices.dll.config
+F:\Desktop\ADAPTERS TEST\LoginOperations\DomainWebServices\bin\DomainWebServices.dll
+F:\Desktop\ADAPTERS TEST\LoginOperations\DomainWebServices\bin\DomainWebServices.pdb
+F:\Desktop\ADAPTERS TEST\LoginOperations\DomainWebServices\bin\MySql.Data.dll
+F:\Desktop\ADAPTERS TEST\LoginOperations\DomainWebServices\bin\MySql.Data.xml
+F:\Desktop\ADAPTERS TEST\LoginOperations\DomainWebServices\obj\Debug\DomainWebServices.csprojResolveAssemblyReference.cache
+F:\Desktop\ADAPTERS TEST\LoginOperations\DomainWebServices\obj\Debug\DomainWebServices.csproj.CoreCompileInputs.cache
+F:\Desktop\ADAPTERS TEST\LoginOperations\DomainWebServices\obj\Debug\DomainWebServices.dll
+F:\Desktop\ADAPTERS TEST\LoginOperations\DomainWebServices\obj\Debug\DomainWebServices.pdb
+F:\Desktop\New folder\LoginOperations\DomainWebServices\bin\DomainWebServices.dll.config
+F:\Desktop\New folder\LoginOperations\DomainWebServices\bin\DomainWebServices.dll
+F:\Desktop\New folder\LoginOperations\DomainWebServices\bin\DomainWebServices.pdb
+F:\Desktop\New folder\LoginOperations\DomainWebServices\bin\MySql.Data.dll
+F:\Desktop\New folder\LoginOperations\DomainWebServices\bin\MySql.Data.xml
+F:\Desktop\New folder\LoginOperations\DomainWebServices\obj\Debug\DomainWebServices.csprojResolveAssemblyReference.cache
+F:\Desktop\New folder\LoginOperations\DomainWebServices\obj\Debug\DomainWebServices.csproj.CoreCompileInputs.cache
+F:\Desktop\New folder\LoginOperations\DomainWebServices\obj\Debug\DomainWebServices.dll
+F:\Desktop\New folder\LoginOperations\DomainWebServices\obj\Debug\DomainWebServices.pdb
+F:\Desktop\LoginOperations\DomainWebServices\bin\DomainWebServices.dll.config
+F:\Desktop\LoginOperations\DomainWebServices\bin\DomainWebServices.dll
+F:\Desktop\LoginOperations\DomainWebServices\bin\DomainWebServices.pdb
+F:\Desktop\LoginOperations\DomainWebServices\bin\MySql.Data.dll
+F:\Desktop\LoginOperations\DomainWebServices\bin\MySql.Data.xml
+F:\Desktop\LoginOperations\DomainWebServices\obj\Debug\DomainWebServices.csprojResolveAssemblyReference.cache
+F:\Desktop\LoginOperations\DomainWebServices\obj\Debug\DomainWebServices.csproj.CoreCompileInputs.cache
+F:\Desktop\LoginOperations\DomainWebServices\obj\Debug\DomainWebServices.dll
+F:\Desktop\LoginOperations\DomainWebServices\obj\Debug\DomainWebServices.pdb
+C:\Users\VasileiosKeleris\Desktop\LoginOperations\DomainWebServices\bin\DomainWebServices.dll.config
+C:\Users\VasileiosKeleris\Desktop\LoginOperations\DomainWebServices\bin\DomainWebServices.dll
+C:\Users\VasileiosKeleris\Desktop\LoginOperations\DomainWebServices\bin\DomainWebServices.pdb
+C:\Users\VasileiosKeleris\Desktop\LoginOperations\DomainWebServices\obj\Debug\DomainWebServices.csprojResolveAssemblyReference.cache
+C:\Users\VasileiosKeleris\Desktop\LoginOperations\DomainWebServices\obj\Debug\DomainWebServices.csproj.CoreCompileInputs.cache
+C:\Users\VasileiosKeleris\Desktop\LoginOperations\DomainWebServices\obj\Debug\DomainWebServices.dll
+C:\Users\VasileiosKeleris\Desktop\LoginOperations\DomainWebServices\obj\Debug\DomainWebServices.pdb
+C:\Users\VasileiosKeleris\Desktop\BitcoinExchange\DomainWebServices\bin\DomainWebServices.dll.config
+C:\Users\VasileiosKeleris\Desktop\BitcoinExchange\DomainWebServices\bin\DomainWebServices.dll
+C:\Users\VasileiosKeleris\Desktop\BitcoinExchange\DomainWebServices\bin\DomainWebServices.pdb
+C:\Users\VasileiosKeleris\Desktop\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.csprojResolveAssemblyReference.cache
+C:\Users\VasileiosKeleris\Desktop\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.csproj.CoreCompileInputs.cache
+C:\Users\VasileiosKeleris\Desktop\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.dll
+C:\Users\VasileiosKeleris\Desktop\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.pdb
+C:\Users\bill\Desktop\BitcoinExchange\DomainWebServices\bin\DomainWebServices.dll.config
+C:\Users\bill\Desktop\BitcoinExchange\DomainWebServices\bin\DomainWebServices.dll
+C:\Users\bill\Desktop\BitcoinExchange\DomainWebServices\bin\DomainWebServices.pdb
+C:\Users\bill\Desktop\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.csprojResolveAssemblyReference.cache
+C:\Users\bill\Desktop\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.csproj.CoreCompileInputs.cache
+C:\Users\bill\Desktop\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.dll
+C:\Users\bill\Desktop\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.pdb
+C:\Users\bill\Desktop\Δικτυοκεντρικά FINAL\BitcoinExchange\DomainWebServices\bin\DomainWebServices.dll.config
+C:\Users\bill\Desktop\Δικτυοκεντρικά FINAL\BitcoinExchange\DomainWebServices\bin\DomainWebServices.dll
+C:\Users\bill\Desktop\Δικτυοκεντρικά FINAL\BitcoinExchange\DomainWebServices\bin\DomainWebServices.pdb
+C:\Users\bill\Desktop\Δικτυοκεντρικά FINAL\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.csprojResolveAssemblyReference.cache
+C:\Users\bill\Desktop\Δικτυοκεντρικά FINAL\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.csproj.CoreCompileInputs.cache
+C:\Users\bill\Desktop\Δικτυοκεντρικά FINAL\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.dll
+C:\Users\bill\Desktop\Δικτυοκεντρικά FINAL\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.pdb
+F:\Desktop\Perasmena mathimata new\7-Diktiokentrika\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\DomainWebServices\bin\DomainWebServices.dll.config
+F:\Desktop\Perasmena mathimata new\7-Diktiokentrika\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\DomainWebServices\bin\DomainWebServices.dll
+F:\Desktop\Perasmena mathimata new\7-Diktiokentrika\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\DomainWebServices\bin\DomainWebServices.pdb
+F:\Desktop\Perasmena mathimata new\7-Diktiokentrika\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\DomainWebServices\bin\MySql.Data.dll
+F:\Desktop\Perasmena mathimata new\7-Diktiokentrika\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\DomainWebServices\bin\MySql.Data.xml
+F:\Desktop\Perasmena mathimata new\7-Diktiokentrika\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.csprojResolveAssemblyReference.cache
+F:\Desktop\Perasmena mathimata new\7-Diktiokentrika\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.csproj.CoreCompileInputs.cache
+F:\Desktop\Perasmena mathimata new\7-Diktiokentrika\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.dll
+F:\Desktop\Perasmena mathimata new\7-Diktiokentrika\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.pdb
+F:\Desktop\ERGASIA 2018\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\DomainWebServices\bin\DomainWebServices.dll.config
+F:\Desktop\ERGASIA 2018\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\DomainWebServices\bin\DomainWebServices.dll
+F:\Desktop\ERGASIA 2018\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\DomainWebServices\bin\DomainWebServices.pdb
+F:\Desktop\ERGASIA 2018\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\DomainWebServices\bin\MySql.Data.xml
+F:\Desktop\ERGASIA 2018\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.csprojResolveAssemblyReference.cache
+F:\Desktop\ERGASIA 2018\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.csproj.CoreCompileInputs.cache
+F:\Desktop\ERGASIA 2018\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.dll
+F:\Desktop\ERGASIA 2018\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.pdb
+F:\Desktop\Bitcoin Exchange App\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\DomainWebServices\bin\DomainWebServices.dll.config
+F:\Desktop\Bitcoin Exchange App\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\DomainWebServices\bin\DomainWebServices.dll
+F:\Desktop\Bitcoin Exchange App\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\DomainWebServices\bin\DomainWebServices.pdb
+F:\Desktop\Bitcoin Exchange App\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\DomainWebServices\bin\MySql.Data.xml
+F:\Desktop\Bitcoin Exchange App\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.csprojResolveAssemblyReference.cache
+F:\Desktop\Bitcoin Exchange App\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.csproj.CoreCompileInputs.cache
+F:\Desktop\Bitcoin Exchange App\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.dll
+F:\Desktop\Bitcoin Exchange App\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.pdb
+F:\Desktop\Projects\Bitcoin Exchange\BitcoinExchange\DomainWebServices\bin\DomainWebServices.dll.config
+F:\Desktop\Projects\Bitcoin Exchange\BitcoinExchange\DomainWebServices\bin\DomainWebServices.dll
+F:\Desktop\Projects\Bitcoin Exchange\BitcoinExchange\DomainWebServices\bin\DomainWebServices.pdb
+F:\Desktop\Projects\Bitcoin Exchange\BitcoinExchange\DomainWebServices\bin\MySql.Data.xml
+F:\Desktop\Projects\Bitcoin Exchange\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.csprojResolveAssemblyReference.cache
+F:\Desktop\Projects\Bitcoin Exchange\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.csproj.CoreCompileInputs.cache
+F:\Desktop\Projects\Bitcoin Exchange\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.dll
+F:\Desktop\Projects\Bitcoin Exchange\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.pdb
+D:\Desktop\Bitcoin Exchange C#\BitcoinExchange\DomainWebServices\bin\DomainWebServices.dll.config
+D:\Desktop\Bitcoin Exchange C#\BitcoinExchange\DomainWebServices\bin\DomainWebServices.dll
+D:\Desktop\Bitcoin Exchange C#\BitcoinExchange\DomainWebServices\bin\DomainWebServices.pdb
+D:\Desktop\Bitcoin Exchange C#\BitcoinExchange\DomainWebServices\bin\MySql.Data.xml
+D:\Desktop\Bitcoin Exchange C#\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.csprojAssemblyReference.cache
+D:\Desktop\Bitcoin Exchange C#\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.csproj.CoreCompileInputs.cache
+D:\Desktop\Bitcoin Exchange C#\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.csproj.CopyComplete
+D:\Desktop\Bitcoin Exchange C#\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.dll
+D:\Desktop\Bitcoin Exchange C#\BitcoinExchange\DomainWebServices\obj\Debug\DomainWebServices.pdb
+D:\Desktop\Bitcoin Exchange C#\DomainWebServices\bin\DomainWebServices.dll.config
+D:\Desktop\Bitcoin Exchange C#\DomainWebServices\bin\DomainWebServices.dll
+D:\Desktop\Bitcoin Exchange C#\DomainWebServices\bin\DomainWebServices.pdb
+D:\Desktop\Bitcoin Exchange C#\DomainWebServices\bin\MySql.Data.xml
+D:\Desktop\Bitcoin Exchange C#\DomainWebServices\obj\Debug\DomainWebServices.csprojAssemblyReference.cache
+D:\Desktop\Bitcoin Exchange C#\DomainWebServices\obj\Debug\DomainWebServices.csproj.CoreCompileInputs.cache
+D:\Desktop\Bitcoin Exchange C#\DomainWebServices\obj\Debug\DomainWebServices.csproj.CopyComplete
+D:\Desktop\Bitcoin Exchange C#\DomainWebServices\obj\Debug\DomainWebServices.dll
+D:\Desktop\Bitcoin Exchange C#\DomainWebServices\obj\Debug\DomainWebServices.pdb
+D:\Desktop\Bitcoin Exchange C#\Bitcoin Exchange C#\DomainWebServices\bin\DomainWebServices.dll.config
+D:\Desktop\Bitcoin Exchange C#\Bitcoin Exchange C#\DomainWebServices\bin\DomainWebServices.dll
+D:\Desktop\Bitcoin Exchange C#\Bitcoin Exchange C#\DomainWebServices\bin\DomainWebServices.pdb
+D:\Desktop\Bitcoin Exchange C#\Bitcoin Exchange C#\DomainWebServices\bin\MySql.Data.xml
+D:\Desktop\Bitcoin Exchange C#\Bitcoin Exchange C#\DomainWebServices\obj\Debug\DomainWebServices.csprojAssemblyReference.cache
+D:\Desktop\Bitcoin Exchange C#\Bitcoin Exchange C#\DomainWebServices\obj\Debug\DomainWebServices.csproj.CoreCompileInputs.cache
+D:\Desktop\Bitcoin Exchange C#\Bitcoin Exchange C#\DomainWebServices\obj\Debug\DomainWebServices.csproj.CopyComplete
+D:\Desktop\Bitcoin Exchange C#\Bitcoin Exchange C#\DomainWebServices\obj\Debug\DomainWebServices.dll
+D:\Desktop\Bitcoin Exchange C#\Bitcoin Exchange C#\DomainWebServices\obj\Debug\DomainWebServices.pdb

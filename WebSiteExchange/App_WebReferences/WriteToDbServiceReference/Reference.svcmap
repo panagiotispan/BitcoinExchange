@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="ac03934c-740e-402f-aca3-9e702199c486" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="fddf25ee-3337-413c-98cc-c26f42740d25" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
   <ClientOptions>
     <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
     <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
@@ -22,11 +22,11 @@
     <MetadataSource Address="http://localhost:6174/WriteToDb.svc" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="WriteToDb.xsd" MetadataType="Schema" ID="a6830023-48f5-4b1e-ae52-91264d114131" SourceId="1" SourceUrl="http://localhost:6174/WriteToDb.svc?xsd=xsd1" />
-    <MetadataFile FileName="WriteToDb1.xsd" MetadataType="Schema" ID="59e1bf26-bf95-4eb4-b911-1d46e0522f2a" SourceId="1" SourceUrl="http://localhost:6174/WriteToDb.svc?xsd=xsd2" />
-    <MetadataFile FileName="WriteToDb2.xsd" MetadataType="Schema" ID="fc6c1d9e-2d6c-410f-8d15-96f39a538010" SourceId="1" SourceUrl="http://localhost:6174/WriteToDb.svc?xsd=xsd0" />
-    <MetadataFile FileName="WriteToDb.wsdl" MetadataType="Wsdl" ID="3e64fb68-031f-4c69-977f-44eee2ba0f99" SourceId="1" SourceUrl="http://localhost:6174/WriteToDb.svc?wsdl" />
-    <MetadataFile FileName="WriteToDb.disco" MetadataType="Disco" ID="9f961aeb-815a-40e2-bc97-aee8c9968c7a" SourceId="1" SourceUrl="http://localhost:6174/WriteToDb.svc?disco" />
+    <MetadataFile FileName="WriteToDb.xsd" MetadataType="Schema" ID="bc23ca49-0c7d-47e4-b632-7b746de29800" SourceId="1" SourceUrl="http://localhost:6174/WriteToDb.svc?xsd=xsd1" />
+    <MetadataFile FileName="WriteToDb1.xsd" MetadataType="Schema" ID="731d441b-b055-4dc7-b5e5-e15a6e96c043" SourceId="1" SourceUrl="http://localhost:6174/WriteToDb.svc?xsd=xsd2" />
+    <MetadataFile FileName="WriteToDb2.xsd" MetadataType="Schema" ID="358fb112-1695-4207-ab64-0d6505596171" SourceId="1" SourceUrl="http://localhost:6174/WriteToDb.svc?xsd=xsd0" />
+    <MetadataFile FileName="WriteToDb.wsdl" MetadataType="Wsdl" ID="d3bb8aa7-a4da-4f8c-9741-02478b28ed3c" SourceId="1" SourceUrl="http://localhost:6174/WriteToDb.svc?wsdl" />
+    <MetadataFile FileName="WriteToDb.disco" MetadataType="Disco" ID="ff13306a-6936-4ffb-ac2b-1f93e74ab7cb" SourceId="1" SourceUrl="http://localhost:6174/WriteToDb.svc?disco" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />

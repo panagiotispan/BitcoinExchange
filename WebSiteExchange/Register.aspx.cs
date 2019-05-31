@@ -58,4 +58,9 @@ public partial class Login : System.Web.UI.Page
         }
 
     }
+
+    protected void txtEmail_TextChanged(object sender, EventArgs e)
+    {
+
+    }
 }

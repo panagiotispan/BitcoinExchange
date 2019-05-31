@@ -13,13 +13,9 @@ namespace FoundationWebServices
     {
         public string GetDBConnectionString()
             {
-                string ConString = @"Server = localhost; Port = 3306; Database = bitcoinexhange; Uid = root; Pwd = 1234;";
-        
+                string ConString = @"Server = localhost; Port = 3306; Database = bitcoinexhange; Uid = root; Pwd = ";
 
                 return ConString;
-
             }
-     }
-    
-    
+     } 
 }

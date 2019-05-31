@@ -1,0 +1,9 @@
+D:\Desktop\Bitcoin Exchange C#\DomainWebServices\bin\DomainWebServices.dll.config
+D:\Desktop\Bitcoin Exchange C#\DomainWebServices\bin\DomainWebServices.dll
+D:\Desktop\Bitcoin Exchange C#\DomainWebServices\bin\DomainWebServices.pdb
+D:\Desktop\Bitcoin Exchange C#\DomainWebServices\bin\MySql.Data.xml
+D:\Desktop\Bitcoin Exchange C#\DomainWebServices\obj\Release\DomainWebServices.csprojAssemblyReference.cache
+D:\Desktop\Bitcoin Exchange C#\DomainWebServices\obj\Release\DomainWebServices.csproj.CoreCompileInputs.cache
+D:\Desktop\Bitcoin Exchange C#\DomainWebServices\obj\Release\DomainWebServices.csproj.CopyComplete
+D:\Desktop\Bitcoin Exchange C#\DomainWebServices\obj\Release\DomainWebServices.dll
+D:\Desktop\Bitcoin Exchange C#\DomainWebServices\obj\Release\DomainWebServices.pdb

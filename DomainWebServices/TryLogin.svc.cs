@@ -22,25 +22,18 @@ namespace DomainWebServices
 
             if (userId > 0)
             {
-                
                 retValue.Add("userId", userId.ToString());
-                
             }
-
+            else if (userId == -1)
+            {
+                retValue.Add("userId", "-1");
+            }
             else
             {
                 retValue.Add("userId", "0");
             }
-
-
-
                 return retValue;
             }
-
-
-
-
     }
-
 }
 

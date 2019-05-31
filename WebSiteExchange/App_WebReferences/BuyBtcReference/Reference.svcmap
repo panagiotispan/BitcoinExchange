@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="689d3d84-b27f-47ef-8083-e69e9ffee2c9" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="289b753e-721b-424d-89cd-59f7faaee34b" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
   <ClientOptions>
     <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
     <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
@@ -22,10 +22,10 @@
     <MetadataSource Address="http://localhost:6174/BuyBtc.svc" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="BuyBtc.wsdl" MetadataType="Wsdl" ID="c4dfabbc-1ce4-4702-aed5-b92f53a600c2" SourceId="1" SourceUrl="http://localhost:6174/BuyBtc.svc?wsdl" />
-    <MetadataFile FileName="BuyBtc.xsd" MetadataType="Schema" ID="f0eeeaf5-473a-401c-939f-69626798b1b0" SourceId="1" SourceUrl="http://localhost:6174/BuyBtc.svc?xsd=xsd1" />
-    <MetadataFile FileName="BuyBtc.disco" MetadataType="Disco" ID="a1e6515c-d7bd-4b78-b905-1eb47cea379f" SourceId="1" SourceUrl="http://localhost:6174/BuyBtc.svc?disco" />
-    <MetadataFile FileName="BuyBtc1.xsd" MetadataType="Schema" ID="0bfd2995-1ecf-4407-bf12-dabbbc40cad1" SourceId="1" SourceUrl="http://localhost:6174/BuyBtc.svc?xsd=xsd0" />
+    <MetadataFile FileName="BuyBtc.wsdl" MetadataType="Wsdl" ID="3d277c54-e38a-4a52-8fc5-b70f6077e538" SourceId="1" SourceUrl="http://localhost:6174/BuyBtc.svc?wsdl" />
+    <MetadataFile FileName="BuyBtc.xsd" MetadataType="Schema" ID="d7f0e37c-8e2a-43e2-9f51-a0e4f07e9844" SourceId="1" SourceUrl="http://localhost:6174/BuyBtc.svc?xsd=xsd1" />
+    <MetadataFile FileName="BuyBtc.disco" MetadataType="Disco" ID="05024d0d-4045-4b8f-918d-847d83645764" SourceId="1" SourceUrl="http://localhost:6174/BuyBtc.svc?disco" />
+    <MetadataFile FileName="BuyBtc1.xsd" MetadataType="Schema" ID="addc2079-3118-48d4-a7f9-f9c64476cde6" SourceId="1" SourceUrl="http://localhost:6174/BuyBtc.svc?xsd=xsd0" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />

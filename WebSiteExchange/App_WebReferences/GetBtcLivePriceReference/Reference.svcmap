@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="c9b7a498-7781-444a-add4-0cef28daaf29" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="34d7ffad-73a4-4c4f-98a8-68584613d2ed" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
   <ClientOptions>
     <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
     <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
@@ -22,10 +22,10 @@
     <MetadataSource Address="http://localhost:6174/GetBtcLivePrice.svc" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="GetBtcLivePrice.wsdl" MetadataType="Wsdl" ID="5eb4f9c9-774c-4d77-863e-eab4354b3097" SourceId="1" SourceUrl="http://localhost:6174/GetBtcLivePrice.svc?wsdl" />
-    <MetadataFile FileName="GetBtcLivePrice.xsd" MetadataType="Schema" ID="bdf31f95-fbd1-46d7-9c03-12e032ccc288" SourceId="1" SourceUrl="http://localhost:6174/GetBtcLivePrice.svc?xsd=xsd0" />
-    <MetadataFile FileName="GetBtcLivePrice1.xsd" MetadataType="Schema" ID="a7c6d9e1-da09-4841-9a52-7ec7c36d8ccf" SourceId="1" SourceUrl="http://localhost:6174/GetBtcLivePrice.svc?xsd=xsd1" />
-    <MetadataFile FileName="GetBtcLivePrice.disco" MetadataType="Disco" ID="c14531ec-4e50-4491-818b-f2be28a918a2" SourceId="1" SourceUrl="http://localhost:6174/GetBtcLivePrice.svc?disco" />
+    <MetadataFile FileName="GetBtcLivePrice.wsdl" MetadataType="Wsdl" ID="944a8e77-f0d5-4c08-8225-a9e4addacf90" SourceId="1" SourceUrl="http://localhost:6174/GetBtcLivePrice.svc?wsdl" />
+    <MetadataFile FileName="GetBtcLivePrice.xsd" MetadataType="Schema" ID="44f87337-190f-4e10-bfe6-e67b4e9ed560" SourceId="1" SourceUrl="http://localhost:6174/GetBtcLivePrice.svc?xsd=xsd0" />
+    <MetadataFile FileName="GetBtcLivePrice1.xsd" MetadataType="Schema" ID="3774c250-f0f0-4460-8a13-c887b09c8070" SourceId="1" SourceUrl="http://localhost:6174/GetBtcLivePrice.svc?xsd=xsd1" />
+    <MetadataFile FileName="GetBtcLivePrice.disco" MetadataType="Disco" ID="bbf5e299-1e57-4077-bc5c-f677dd2db745" SourceId="1" SourceUrl="http://localhost:6174/GetBtcLivePrice.svc?disco" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />

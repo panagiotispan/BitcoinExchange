@@ -158,6 +158,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="NewFolder1\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Connected Services\GetDBConnectionReference\GetDBConnection.wsdl" />

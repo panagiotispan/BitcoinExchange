@@ -28,7 +28,7 @@ namespace UtilityWebServices
             EncryptDataReference.EncryptDataClient dce = new EncryptDataReference.EncryptDataClient();
             string encpassword = dce.Encrypt(info.Password);
 
-            string query = "insert into customer(username,password,email) VALUES (@Username,@Password,@Email)";
+            string query = "insert into customer(username,password,email,usd_balance,btc_balance) VALUES (@Username,@Password,@Email,0,0)";
 
 
             MySqlCommand cmd = null;

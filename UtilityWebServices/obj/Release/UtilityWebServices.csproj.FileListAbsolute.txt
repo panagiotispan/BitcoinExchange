@@ -1,0 +1,9 @@
+D:\Desktop\Bitcoin Exchange C#\UtilityWebServices\bin\UtilityWebServices.dll.config
+D:\Desktop\Bitcoin Exchange C#\UtilityWebServices\bin\UtilityWebServices.dll
+D:\Desktop\Bitcoin Exchange C#\UtilityWebServices\bin\UtilityWebServices.pdb
+D:\Desktop\Bitcoin Exchange C#\UtilityWebServices\bin\MySql.Data.xml
+D:\Desktop\Bitcoin Exchange C#\UtilityWebServices\obj\Release\UtilityWebServices.csprojAssemblyReference.cache
+D:\Desktop\Bitcoin Exchange C#\UtilityWebServices\obj\Release\UtilityWebServices.csproj.CoreCompileInputs.cache
+D:\Desktop\Bitcoin Exchange C#\UtilityWebServices\obj\Release\UtilityWebServices.csproj.CopyComplete
+D:\Desktop\Bitcoin Exchange C#\UtilityWebServices\obj\Release\UtilityWebServices.dll
+D:\Desktop\Bitcoin Exchange C#\UtilityWebServices\obj\Release\UtilityWebServices.pdb

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="6ae76ce5-1dab-4416-92bc-7452f01b1c58" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="90be47d9-cc11-4d77-be49-ced06f3b3abc" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
   <ClientOptions>
     <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
     <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
@@ -22,10 +22,10 @@
     <MetadataSource Address="http://localhost:6174/GetUsdBalance.svc" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="GetUsdBalance.xsd" MetadataType="Schema" ID="793f52b5-2dad-4715-8f28-81b5c517f5c6" SourceId="1" SourceUrl="http://localhost:6174/GetUsdBalance.svc?xsd=xsd0" />
-    <MetadataFile FileName="GetUsdBalance.wsdl" MetadataType="Wsdl" ID="9da48c37-4ac4-49c3-bd59-63405618e784" SourceId="1" SourceUrl="http://localhost:6174/GetUsdBalance.svc?wsdl" />
-    <MetadataFile FileName="GetUsdBalance1.xsd" MetadataType="Schema" ID="68a7636d-6452-4d20-aaab-7a02d4b73af2" SourceId="1" SourceUrl="http://localhost:6174/GetUsdBalance.svc?xsd=xsd1" />
-    <MetadataFile FileName="GetUsdBalance.disco" MetadataType="Disco" ID="7619b804-04f2-44c6-b34c-40920b24180a" SourceId="1" SourceUrl="http://localhost:6174/GetUsdBalance.svc?disco" />
+    <MetadataFile FileName="GetUsdBalance.xsd" MetadataType="Schema" ID="04655813-cf4f-4756-94cf-61c077deff63" SourceId="1" SourceUrl="http://localhost:6174/GetUsdBalance.svc?xsd=xsd0" />
+    <MetadataFile FileName="GetUsdBalance.wsdl" MetadataType="Wsdl" ID="c65e3d05-5553-4c32-a2bf-8916515a74fb" SourceId="1" SourceUrl="http://localhost:6174/GetUsdBalance.svc?wsdl" />
+    <MetadataFile FileName="GetUsdBalance1.xsd" MetadataType="Schema" ID="486dc34d-a0dc-477f-8d26-cd16c74acfcd" SourceId="1" SourceUrl="http://localhost:6174/GetUsdBalance.svc?xsd=xsd1" />
+    <MetadataFile FileName="GetUsdBalance.disco" MetadataType="Disco" ID="24353ebf-5fda-4350-a801-60b4173028b7" SourceId="1" SourceUrl="http://localhost:6174/GetUsdBalance.svc?disco" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="c489a4f3-1469-4116-a4d6-bd43d168d637" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="ae0b723d-c26a-4d54-858c-f97c3bfc97d8" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
   <ClientOptions>
     <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
     <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
@@ -22,11 +22,11 @@
     <MetadataSource Address="http://localhost:12996/GetUserInfo.svc" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="GetUserInfo.disco" MetadataType="Disco" ID="3ef7198e-49a2-4e21-b9a4-c2811094d270" SourceId="1" SourceUrl="http://localhost:12996/GetUserInfo.svc?disco" />
-    <MetadataFile FileName="GetUserInfo.wsdl" MetadataType="Wsdl" ID="cd3dc9ba-f5b1-410f-964f-c7ba3c25d313" SourceId="1" SourceUrl="http://localhost:12996/GetUserInfo.svc?wsdl" />
-    <MetadataFile FileName="GetUserInfo.xsd" MetadataType="Schema" ID="4292f253-e92a-4988-9c79-bcd3b14b9e17" SourceId="1" SourceUrl="http://localhost:12996/GetUserInfo.svc?xsd=xsd2" />
-    <MetadataFile FileName="GetUserInfo1.xsd" MetadataType="Schema" ID="bdaccab1-66a8-41e0-ac78-bcf0685f0892" SourceId="1" SourceUrl="http://localhost:12996/GetUserInfo.svc?xsd=xsd1" />
-    <MetadataFile FileName="GetUserInfo2.xsd" MetadataType="Schema" ID="6a14e54d-fd05-4aab-9d5c-21c6b9d1af6d" SourceId="1" SourceUrl="http://localhost:12996/GetUserInfo.svc?xsd=xsd0" />
+    <MetadataFile FileName="GetUserInfo.disco" MetadataType="Disco" ID="a0a924e6-1779-4e90-bb94-3e054324a08b" SourceId="1" SourceUrl="http://localhost:12996/GetUserInfo.svc?disco" />
+    <MetadataFile FileName="GetUserInfo.wsdl" MetadataType="Wsdl" ID="ddb4e520-4943-4b3f-ae99-dfef8e58d114" SourceId="1" SourceUrl="http://localhost:12996/GetUserInfo.svc?wsdl" />
+    <MetadataFile FileName="GetUserInfo.xsd" MetadataType="Schema" ID="f1d0130f-eb0d-4351-9996-ca873b49dea4" SourceId="1" SourceUrl="http://localhost:12996/GetUserInfo.svc?xsd=xsd2" />
+    <MetadataFile FileName="GetUserInfo1.xsd" MetadataType="Schema" ID="73ff9ba0-86a3-4c7a-9ede-1258598be6f2" SourceId="1" SourceUrl="http://localhost:12996/GetUserInfo.svc?xsd=xsd1" />
+    <MetadataFile FileName="GetUserInfo2.xsd" MetadataType="Schema" ID="38dca40b-ac04-4202-aeef-9903173d9353" SourceId="1" SourceUrl="http://localhost:12996/GetUserInfo.svc?xsd=xsd0" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />

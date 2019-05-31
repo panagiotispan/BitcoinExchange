@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="fb249e8a-7b79-47f1-a784-9d5d79cce945" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="c9bea2fc-b377-4232-9fed-efa2a608f903" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
   <ClientOptions>
     <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
     <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
@@ -22,10 +22,10 @@
     <MetadataSource Address="http://localhost:6174/UpdateBtcBalance.svc" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="UpdateBtcBalance.xsd" MetadataType="Schema" ID="1c2b7608-4a7a-48c4-8ed3-895d891ae0fb" SourceId="1" SourceUrl="http://localhost:6174/UpdateBtcBalance.svc?xsd=xsd1" />
-    <MetadataFile FileName="UpdateBtcBalance.wsdl" MetadataType="Wsdl" ID="bd00f98c-6bf5-44a7-8c43-1da6259b1119" SourceId="1" SourceUrl="http://localhost:6174/UpdateBtcBalance.svc?wsdl" />
-    <MetadataFile FileName="UpdateBtcBalance.disco" MetadataType="Disco" ID="3613c4a9-9819-47c2-81a6-442ab9f974e9" SourceId="1" SourceUrl="http://localhost:6174/UpdateBtcBalance.svc?disco" />
-    <MetadataFile FileName="UpdateBtcBalance1.xsd" MetadataType="Schema" ID="e7250dec-f597-4f0f-aed8-df0595968748" SourceId="1" SourceUrl="http://localhost:6174/UpdateBtcBalance.svc?xsd=xsd0" />
+    <MetadataFile FileName="UpdateBtcBalance.xsd" MetadataType="Schema" ID="99476af6-72d3-4b33-842f-52ac4dbd4266" SourceId="1" SourceUrl="http://localhost:6174/UpdateBtcBalance.svc?xsd=xsd1" />
+    <MetadataFile FileName="UpdateBtcBalance.wsdl" MetadataType="Wsdl" ID="c705b2e8-d3ba-4593-af66-32761386411a" SourceId="1" SourceUrl="http://localhost:6174/UpdateBtcBalance.svc?wsdl" />
+    <MetadataFile FileName="UpdateBtcBalance.disco" MetadataType="Disco" ID="98ac8111-d466-479e-b467-984b5025f16e" SourceId="1" SourceUrl="http://localhost:6174/UpdateBtcBalance.svc?disco" />
+    <MetadataFile FileName="UpdateBtcBalance1.xsd" MetadataType="Schema" ID="fd57aac0-5db4-4117-bd13-a5f41c8d9977" SourceId="1" SourceUrl="http://localhost:6174/UpdateBtcBalance.svc?xsd=xsd0" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />

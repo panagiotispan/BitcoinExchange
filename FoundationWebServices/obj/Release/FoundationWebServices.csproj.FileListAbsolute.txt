@@ -1,0 +1,7 @@
+D:\Desktop\Bitcoin Exchange C#\FoundationWebServices\bin\FoundationWebServices.dll.config
+D:\Desktop\Bitcoin Exchange C#\FoundationWebServices\bin\FoundationWebServices.dll
+D:\Desktop\Bitcoin Exchange C#\FoundationWebServices\bin\FoundationWebServices.pdb
+D:\Desktop\Bitcoin Exchange C#\FoundationWebServices\obj\Release\FoundationWebServices.csprojAssemblyReference.cache
+D:\Desktop\Bitcoin Exchange C#\FoundationWebServices\obj\Release\FoundationWebServices.csproj.CoreCompileInputs.cache
+D:\Desktop\Bitcoin Exchange C#\FoundationWebServices\obj\Release\FoundationWebServices.dll
+D:\Desktop\Bitcoin Exchange C#\FoundationWebServices\obj\Release\FoundationWebServices.pdb

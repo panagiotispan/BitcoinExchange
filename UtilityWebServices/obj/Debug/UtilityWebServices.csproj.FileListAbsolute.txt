@@ -1,0 +1,133 @@
+C:\Users\Takis\source\repos\LoginOperations\UtilityWebServices\obj\Debug\UtilityWebServices.csprojResolveAssemblyReference.cache
+C:\Users\Takis\source\repos\LoginOperations\UtilityWebServices\obj\Debug\UtilityWebServices.csproj.CoreCompileInputs.cache
+C:\Users\Takis\source\repos\LoginOperations\UtilityWebServices\bin\UtilityWebServices.dll.config
+C:\Users\Takis\source\repos\LoginOperations\UtilityWebServices\bin\UtilityWebServices.dll
+C:\Users\Takis\source\repos\LoginOperations\UtilityWebServices\bin\UtilityWebServices.pdb
+C:\Users\Takis\source\repos\LoginOperations\UtilityWebServices\bin\MySql.Data.dll
+C:\Users\Takis\source\repos\LoginOperations\UtilityWebServices\bin\MySql.Data.xml
+C:\Users\Takis\source\repos\LoginOperations\UtilityWebServices\obj\Debug\UtilityWebServices.dll
+C:\Users\Takis\source\repos\LoginOperations\UtilityWebServices\obj\Debug\UtilityWebServices.pdb
+F:\Desktop\WebService ergastio 7 backup\LoginOperations\UtilityWebServices\bin\UtilityWebServices.dll.config
+F:\Desktop\WebService ergastio 7 backup\LoginOperations\UtilityWebServices\bin\UtilityWebServices.dll
+F:\Desktop\WebService ergastio 7 backup\LoginOperations\UtilityWebServices\bin\UtilityWebServices.pdb
+F:\Desktop\WebService ergastio 7 backup\LoginOperations\UtilityWebServices\bin\MySql.Data.dll
+F:\Desktop\WebService ergastio 7 backup\LoginOperations\UtilityWebServices\bin\MySql.Data.xml
+F:\Desktop\WebService ergastio 7 backup\LoginOperations\UtilityWebServices\obj\Debug\UtilityWebServices.csprojResolveAssemblyReference.cache
+F:\Desktop\WebService ergastio 7 backup\LoginOperations\UtilityWebServices\obj\Debug\UtilityWebServices.csproj.CoreCompileInputs.cache
+F:\Desktop\WebService ergastio 7 backup\LoginOperations\UtilityWebServices\obj\Debug\UtilityWebServices.dll
+F:\Desktop\WebService ergastio 7 backup\LoginOperations\UtilityWebServices\obj\Debug\UtilityWebServices.pdb
+F:\Desktop\ADAPTERS TEST\WebService ergastio 7 backup\LoginOperations\UtilityWebServices\bin\UtilityWebServices.dll.config
+F:\Desktop\ADAPTERS TEST\WebService ergastio 7 backup\LoginOperations\UtilityWebServices\bin\UtilityWebServices.dll
+F:\Desktop\ADAPTERS TEST\WebService ergastio 7 backup\LoginOperations\UtilityWebServices\bin\UtilityWebServices.pdb
+F:\Desktop\ADAPTERS TEST\WebService ergastio 7 backup\LoginOperations\UtilityWebServices\bin\MySql.Data.dll
+F:\Desktop\ADAPTERS TEST\WebService ergastio 7 backup\LoginOperations\UtilityWebServices\bin\MySql.Data.xml
+F:\Desktop\ADAPTERS TEST\WebService ergastio 7 backup\LoginOperations\UtilityWebServices\obj\Debug\UtilityWebServices.csprojResolveAssemblyReference.cache
+F:\Desktop\ADAPTERS TEST\WebService ergastio 7 backup\LoginOperations\UtilityWebServices\obj\Debug\UtilityWebServices.csproj.CoreCompileInputs.cache
+F:\Desktop\ADAPTERS TEST\WebService ergastio 7 backup\LoginOperations\UtilityWebServices\obj\Debug\UtilityWebServices.dll
+F:\Desktop\ADAPTERS TEST\WebService ergastio 7 backup\LoginOperations\UtilityWebServices\obj\Debug\UtilityWebServices.pdb
+F:\Desktop\ADAPTERS TEST\LoginOperations\UtilityWebServices\bin\UtilityWebServices.dll.config
+F:\Desktop\ADAPTERS TEST\LoginOperations\UtilityWebServices\bin\UtilityWebServices.dll
+F:\Desktop\ADAPTERS TEST\LoginOperations\UtilityWebServices\bin\UtilityWebServices.pdb
+F:\Desktop\ADAPTERS TEST\LoginOperations\UtilityWebServices\bin\MySql.Data.dll
+F:\Desktop\ADAPTERS TEST\LoginOperations\UtilityWebServices\bin\MySql.Data.xml
+F:\Desktop\ADAPTERS TEST\LoginOperations\UtilityWebServices\obj\Debug\UtilityWebServices.csprojResolveAssemblyReference.cache
+F:\Desktop\ADAPTERS TEST\LoginOperations\UtilityWebServices\obj\Debug\UtilityWebServices.csproj.CoreCompileInputs.cache
+F:\Desktop\ADAPTERS TEST\LoginOperations\UtilityWebServices\obj\Debug\UtilityWebServices.dll
+F:\Desktop\ADAPTERS TEST\LoginOperations\UtilityWebServices\obj\Debug\UtilityWebServices.pdb
+F:\Desktop\New folder\LoginOperations\UtilityWebServices\bin\UtilityWebServices.dll.config
+F:\Desktop\New folder\LoginOperations\UtilityWebServices\bin\UtilityWebServices.dll
+F:\Desktop\New folder\LoginOperations\UtilityWebServices\bin\UtilityWebServices.pdb
+F:\Desktop\New folder\LoginOperations\UtilityWebServices\bin\MySql.Data.dll
+F:\Desktop\New folder\LoginOperations\UtilityWebServices\bin\MySql.Data.xml
+F:\Desktop\New folder\LoginOperations\UtilityWebServices\obj\Debug\UtilityWebServices.csprojResolveAssemblyReference.cache
+F:\Desktop\New folder\LoginOperations\UtilityWebServices\obj\Debug\UtilityWebServices.csproj.CoreCompileInputs.cache
+F:\Desktop\New folder\LoginOperations\UtilityWebServices\obj\Debug\UtilityWebServices.dll
+F:\Desktop\New folder\LoginOperations\UtilityWebServices\obj\Debug\UtilityWebServices.pdb
+C:\Users\VasileiosKeleris\Desktop\LoginOperations\UtilityWebServices\bin\UtilityWebServices.dll.config
+C:\Users\VasileiosKeleris\Desktop\LoginOperations\UtilityWebServices\bin\UtilityWebServices.dll
+C:\Users\VasileiosKeleris\Desktop\LoginOperations\UtilityWebServices\bin\UtilityWebServices.pdb
+C:\Users\VasileiosKeleris\Desktop\LoginOperations\UtilityWebServices\obj\Debug\UtilityWebServices.csprojResolveAssemblyReference.cache
+C:\Users\VasileiosKeleris\Desktop\LoginOperations\UtilityWebServices\obj\Debug\UtilityWebServices.csproj.CoreCompileInputs.cache
+C:\Users\VasileiosKeleris\Desktop\LoginOperations\UtilityWebServices\obj\Debug\UtilityWebServices.dll
+C:\Users\VasileiosKeleris\Desktop\LoginOperations\UtilityWebServices\obj\Debug\UtilityWebServices.pdb
+C:\Users\VasileiosKeleris\Desktop\BitcoinExchange\UtilityWebServices\bin\UtilityWebServices.dll.config
+C:\Users\VasileiosKeleris\Desktop\BitcoinExchange\UtilityWebServices\bin\UtilityWebServices.dll
+C:\Users\VasileiosKeleris\Desktop\BitcoinExchange\UtilityWebServices\bin\UtilityWebServices.pdb
+C:\Users\VasileiosKeleris\Desktop\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.csproj.CoreCompileInputs.cache
+C:\Users\VasileiosKeleris\Desktop\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.dll
+C:\Users\VasileiosKeleris\Desktop\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.pdb
+C:\Users\VasileiosKeleris\Desktop\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.csprojResolveAssemblyReference.cache
+C:\Users\bill\Desktop\BitcoinExchange\UtilityWebServices\bin\UtilityWebServices.dll.config
+C:\Users\bill\Desktop\BitcoinExchange\UtilityWebServices\bin\UtilityWebServices.dll
+C:\Users\bill\Desktop\BitcoinExchange\UtilityWebServices\bin\UtilityWebServices.pdb
+C:\Users\bill\Desktop\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.csprojResolveAssemblyReference.cache
+C:\Users\bill\Desktop\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.csproj.CoreCompileInputs.cache
+C:\Users\bill\Desktop\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.dll
+C:\Users\bill\Desktop\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.pdb
+C:\Users\bill\Desktop\Δικτυοκεντρικά FINAL\BitcoinExchange\UtilityWebServices\bin\UtilityWebServices.dll.config
+C:\Users\bill\Desktop\Δικτυοκεντρικά FINAL\BitcoinExchange\UtilityWebServices\bin\UtilityWebServices.dll
+C:\Users\bill\Desktop\Δικτυοκεντρικά FINAL\BitcoinExchange\UtilityWebServices\bin\UtilityWebServices.pdb
+C:\Users\bill\Desktop\Δικτυοκεντρικά FINAL\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.csprojResolveAssemblyReference.cache
+C:\Users\bill\Desktop\Δικτυοκεντρικά FINAL\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.csproj.CoreCompileInputs.cache
+C:\Users\bill\Desktop\Δικτυοκεντρικά FINAL\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.dll
+C:\Users\bill\Desktop\Δικτυοκεντρικά FINAL\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.pdb
+F:\Desktop\Perasmena mathimata new\7-Diktiokentrika\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\UtilityWebServices\bin\UtilityWebServices.dll.config
+F:\Desktop\Perasmena mathimata new\7-Diktiokentrika\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\UtilityWebServices\bin\UtilityWebServices.dll
+F:\Desktop\Perasmena mathimata new\7-Diktiokentrika\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\UtilityWebServices\bin\UtilityWebServices.pdb
+F:\Desktop\Perasmena mathimata new\7-Diktiokentrika\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\UtilityWebServices\bin\MySql.Data.dll
+F:\Desktop\Perasmena mathimata new\7-Diktiokentrika\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\UtilityWebServices\bin\MySql.Data.xml
+F:\Desktop\Perasmena mathimata new\7-Diktiokentrika\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.csprojResolveAssemblyReference.cache
+F:\Desktop\Perasmena mathimata new\7-Diktiokentrika\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.csproj.CoreCompileInputs.cache
+F:\Desktop\Perasmena mathimata new\7-Diktiokentrika\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.dll
+F:\Desktop\Perasmena mathimata new\7-Diktiokentrika\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.pdb
+F:\Desktop\ERGASIA 2018\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\UtilityWebServices\bin\UtilityWebServices.dll.config
+F:\Desktop\ERGASIA 2018\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\UtilityWebServices\bin\UtilityWebServices.dll
+F:\Desktop\ERGASIA 2018\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\UtilityWebServices\bin\UtilityWebServices.pdb
+F:\Desktop\ERGASIA 2018\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\UtilityWebServices\bin\MySql.Data.xml
+F:\Desktop\ERGASIA 2018\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.csprojResolveAssemblyReference.cache
+F:\Desktop\ERGASIA 2018\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.csproj.CoreCompileInputs.cache
+F:\Desktop\ERGASIA 2018\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.dll
+F:\Desktop\ERGASIA 2018\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.pdb
+F:\Desktop\Bitcoin Exchange App\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\UtilityWebServices\bin\UtilityWebServices.dll.config
+F:\Desktop\Bitcoin Exchange App\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\UtilityWebServices\bin\UtilityWebServices.dll
+F:\Desktop\Bitcoin Exchange App\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\UtilityWebServices\bin\UtilityWebServices.pdb
+F:\Desktop\Bitcoin Exchange App\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\UtilityWebServices\bin\MySql.Data.xml
+F:\Desktop\Bitcoin Exchange App\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.csprojResolveAssemblyReference.cache
+F:\Desktop\Bitcoin Exchange App\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.csproj.CoreCompileInputs.cache
+F:\Desktop\Bitcoin Exchange App\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.dll
+F:\Desktop\Bitcoin Exchange App\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.pdb
+F:\Desktop\Projects\Bitcoin Exchange\BitcoinExchange\UtilityWebServices\bin\UtilityWebServices.dll.config
+F:\Desktop\Projects\Bitcoin Exchange\BitcoinExchange\UtilityWebServices\bin\UtilityWebServices.dll
+F:\Desktop\Projects\Bitcoin Exchange\BitcoinExchange\UtilityWebServices\bin\UtilityWebServices.pdb
+F:\Desktop\Projects\Bitcoin Exchange\BitcoinExchange\UtilityWebServices\bin\MySql.Data.xml
+F:\Desktop\Projects\Bitcoin Exchange\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.csprojResolveAssemblyReference.cache
+F:\Desktop\Projects\Bitcoin Exchange\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.csproj.CoreCompileInputs.cache
+F:\Desktop\Projects\Bitcoin Exchange\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.dll
+F:\Desktop\Projects\Bitcoin Exchange\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.pdb
+D:\Desktop\Bitcoin Exchange C#\BitcoinExchange\UtilityWebServices\bin\UtilityWebServices.dll.config
+D:\Desktop\Bitcoin Exchange C#\BitcoinExchange\UtilityWebServices\bin\UtilityWebServices.dll
+D:\Desktop\Bitcoin Exchange C#\BitcoinExchange\UtilityWebServices\bin\UtilityWebServices.pdb
+D:\Desktop\Bitcoin Exchange C#\BitcoinExchange\UtilityWebServices\bin\MySql.Data.xml
+D:\Desktop\Bitcoin Exchange C#\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.csprojAssemblyReference.cache
+D:\Desktop\Bitcoin Exchange C#\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.csproj.CoreCompileInputs.cache
+D:\Desktop\Bitcoin Exchange C#\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.csproj.CopyComplete
+D:\Desktop\Bitcoin Exchange C#\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.dll
+D:\Desktop\Bitcoin Exchange C#\BitcoinExchange\UtilityWebServices\obj\Debug\UtilityWebServices.pdb
+D:\Desktop\Bitcoin Exchange C#\UtilityWebServices\bin\UtilityWebServices.dll.config
+D:\Desktop\Bitcoin Exchange C#\UtilityWebServices\bin\UtilityWebServices.dll
+D:\Desktop\Bitcoin Exchange C#\UtilityWebServices\bin\UtilityWebServices.pdb
+D:\Desktop\Bitcoin Exchange C#\UtilityWebServices\bin\MySql.Data.xml
+D:\Desktop\Bitcoin Exchange C#\UtilityWebServices\obj\Debug\UtilityWebServices.csprojAssemblyReference.cache
+D:\Desktop\Bitcoin Exchange C#\UtilityWebServices\obj\Debug\UtilityWebServices.csproj.CoreCompileInputs.cache
+D:\Desktop\Bitcoin Exchange C#\UtilityWebServices\obj\Debug\UtilityWebServices.csproj.CopyComplete
+D:\Desktop\Bitcoin Exchange C#\UtilityWebServices\obj\Debug\UtilityWebServices.dll
+D:\Desktop\Bitcoin Exchange C#\UtilityWebServices\obj\Debug\UtilityWebServices.pdb
+D:\Desktop\Bitcoin Exchange C#\Bitcoin Exchange C#\UtilityWebServices\bin\UtilityWebServices.dll.config
+D:\Desktop\Bitcoin Exchange C#\Bitcoin Exchange C#\UtilityWebServices\bin\UtilityWebServices.dll
+D:\Desktop\Bitcoin Exchange C#\Bitcoin Exchange C#\UtilityWebServices\bin\UtilityWebServices.pdb
+D:\Desktop\Bitcoin Exchange C#\Bitcoin Exchange C#\UtilityWebServices\bin\MySql.Data.xml
+D:\Desktop\Bitcoin Exchange C#\Bitcoin Exchange C#\UtilityWebServices\obj\Debug\UtilityWebServices.csprojAssemblyReference.cache
+D:\Desktop\Bitcoin Exchange C#\Bitcoin Exchange C#\UtilityWebServices\obj\Debug\UtilityWebServices.csproj.CoreCompileInputs.cache
+D:\Desktop\Bitcoin Exchange C#\Bitcoin Exchange C#\UtilityWebServices\obj\Debug\UtilityWebServices.csproj.CopyComplete
+D:\Desktop\Bitcoin Exchange C#\Bitcoin Exchange C#\UtilityWebServices\obj\Debug\UtilityWebServices.dll
+D:\Desktop\Bitcoin Exchange C#\Bitcoin Exchange C#\UtilityWebServices\obj\Debug\UtilityWebServices.pdb

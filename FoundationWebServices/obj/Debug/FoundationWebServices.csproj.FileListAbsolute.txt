@@ -1,0 +1,109 @@
+C:\Users\Takis\source\repos\LoginOperations\FoundationWebServices\obj\Debug\FoundationWebServices.csprojResolveAssemblyReference.cache
+C:\Users\Takis\source\repos\LoginOperations\FoundationWebServices\obj\Debug\FoundationWebServices.csproj.CoreCompileInputs.cache
+C:\Users\Takis\source\repos\LoginOperations\FoundationWebServices\bin\FoundationWebServices.dll.config
+C:\Users\Takis\source\repos\LoginOperations\FoundationWebServices\bin\FoundationWebServices.dll
+C:\Users\Takis\source\repos\LoginOperations\FoundationWebServices\bin\FoundationWebServices.pdb
+C:\Users\Takis\source\repos\LoginOperations\FoundationWebServices\obj\Debug\FoundationWebServices.dll
+C:\Users\Takis\source\repos\LoginOperations\FoundationWebServices\obj\Debug\FoundationWebServices.pdb
+F:\Desktop\WebService ergastio 7 backup\LoginOperations\FoundationWebServices\bin\FoundationWebServices.dll.config
+F:\Desktop\WebService ergastio 7 backup\LoginOperations\FoundationWebServices\bin\FoundationWebServices.dll
+F:\Desktop\WebService ergastio 7 backup\LoginOperations\FoundationWebServices\bin\FoundationWebServices.pdb
+F:\Desktop\WebService ergastio 7 backup\LoginOperations\FoundationWebServices\obj\Debug\FoundationWebServices.csprojResolveAssemblyReference.cache
+F:\Desktop\WebService ergastio 7 backup\LoginOperations\FoundationWebServices\obj\Debug\FoundationWebServices.csproj.CoreCompileInputs.cache
+F:\Desktop\WebService ergastio 7 backup\LoginOperations\FoundationWebServices\obj\Debug\FoundationWebServices.dll
+F:\Desktop\WebService ergastio 7 backup\LoginOperations\FoundationWebServices\obj\Debug\FoundationWebServices.pdb
+F:\Desktop\ADAPTERS TEST\WebService ergastio 7 backup\LoginOperations\FoundationWebServices\bin\FoundationWebServices.dll.config
+F:\Desktop\ADAPTERS TEST\WebService ergastio 7 backup\LoginOperations\FoundationWebServices\bin\FoundationWebServices.dll
+F:\Desktop\ADAPTERS TEST\WebService ergastio 7 backup\LoginOperations\FoundationWebServices\bin\FoundationWebServices.pdb
+F:\Desktop\ADAPTERS TEST\WebService ergastio 7 backup\LoginOperations\FoundationWebServices\obj\Debug\FoundationWebServices.csprojResolveAssemblyReference.cache
+F:\Desktop\ADAPTERS TEST\WebService ergastio 7 backup\LoginOperations\FoundationWebServices\obj\Debug\FoundationWebServices.csproj.CoreCompileInputs.cache
+F:\Desktop\ADAPTERS TEST\WebService ergastio 7 backup\LoginOperations\FoundationWebServices\obj\Debug\FoundationWebServices.dll
+F:\Desktop\ADAPTERS TEST\WebService ergastio 7 backup\LoginOperations\FoundationWebServices\obj\Debug\FoundationWebServices.pdb
+F:\Desktop\ADAPTERS TEST\LoginOperations\FoundationWebServices\bin\FoundationWebServices.dll.config
+F:\Desktop\ADAPTERS TEST\LoginOperations\FoundationWebServices\bin\FoundationWebServices.dll
+F:\Desktop\ADAPTERS TEST\LoginOperations\FoundationWebServices\bin\FoundationWebServices.pdb
+F:\Desktop\ADAPTERS TEST\LoginOperations\FoundationWebServices\obj\Debug\FoundationWebServices.csprojResolveAssemblyReference.cache
+F:\Desktop\ADAPTERS TEST\LoginOperations\FoundationWebServices\obj\Debug\FoundationWebServices.csproj.CoreCompileInputs.cache
+F:\Desktop\ADAPTERS TEST\LoginOperations\FoundationWebServices\obj\Debug\FoundationWebServices.dll
+F:\Desktop\ADAPTERS TEST\LoginOperations\FoundationWebServices\obj\Debug\FoundationWebServices.pdb
+F:\Desktop\New folder\LoginOperations\FoundationWebServices\bin\FoundationWebServices.dll.config
+F:\Desktop\New folder\LoginOperations\FoundationWebServices\bin\FoundationWebServices.dll
+F:\Desktop\New folder\LoginOperations\FoundationWebServices\bin\FoundationWebServices.pdb
+F:\Desktop\New folder\LoginOperations\FoundationWebServices\obj\Debug\FoundationWebServices.csprojResolveAssemblyReference.cache
+F:\Desktop\New folder\LoginOperations\FoundationWebServices\obj\Debug\FoundationWebServices.csproj.CoreCompileInputs.cache
+F:\Desktop\New folder\LoginOperations\FoundationWebServices\obj\Debug\FoundationWebServices.dll
+F:\Desktop\New folder\LoginOperations\FoundationWebServices\obj\Debug\FoundationWebServices.pdb
+C:\Users\VasileiosKeleris\Desktop\LoginOperations\FoundationWebServices\bin\FoundationWebServices.dll.config
+C:\Users\VasileiosKeleris\Desktop\LoginOperations\FoundationWebServices\bin\FoundationWebServices.dll
+C:\Users\VasileiosKeleris\Desktop\LoginOperations\FoundationWebServices\bin\FoundationWebServices.pdb
+C:\Users\VasileiosKeleris\Desktop\LoginOperations\FoundationWebServices\obj\Debug\FoundationWebServices.csprojResolveAssemblyReference.cache
+C:\Users\VasileiosKeleris\Desktop\LoginOperations\FoundationWebServices\obj\Debug\FoundationWebServices.csproj.CoreCompileInputs.cache
+C:\Users\VasileiosKeleris\Desktop\LoginOperations\FoundationWebServices\obj\Debug\FoundationWebServices.dll
+C:\Users\VasileiosKeleris\Desktop\LoginOperations\FoundationWebServices\obj\Debug\FoundationWebServices.pdb
+C:\Users\VasileiosKeleris\Desktop\BitcoinExchange\FoundationWebServices\bin\FoundationWebServices.dll.config
+C:\Users\VasileiosKeleris\Desktop\BitcoinExchange\FoundationWebServices\bin\FoundationWebServices.dll
+C:\Users\VasileiosKeleris\Desktop\BitcoinExchange\FoundationWebServices\bin\FoundationWebServices.pdb
+C:\Users\VasileiosKeleris\Desktop\BitcoinExchange\FoundationWebServices\obj\Debug\FoundationWebServices.csproj.CoreCompileInputs.cache
+C:\Users\VasileiosKeleris\Desktop\BitcoinExchange\FoundationWebServices\obj\Debug\FoundationWebServices.dll
+C:\Users\VasileiosKeleris\Desktop\BitcoinExchange\FoundationWebServices\obj\Debug\FoundationWebServices.pdb
+C:\Users\bill\Desktop\BitcoinExchange\FoundationWebServices\bin\FoundationWebServices.dll.config
+C:\Users\bill\Desktop\BitcoinExchange\FoundationWebServices\bin\FoundationWebServices.dll
+C:\Users\bill\Desktop\BitcoinExchange\FoundationWebServices\bin\FoundationWebServices.pdb
+C:\Users\bill\Desktop\BitcoinExchange\FoundationWebServices\obj\Debug\FoundationWebServices.csproj.CoreCompileInputs.cache
+C:\Users\bill\Desktop\BitcoinExchange\FoundationWebServices\obj\Debug\FoundationWebServices.dll
+C:\Users\bill\Desktop\BitcoinExchange\FoundationWebServices\obj\Debug\FoundationWebServices.pdb
+C:\Users\bill\Desktop\Δικτυοκεντρικά FINAL\BitcoinExchange\FoundationWebServices\bin\FoundationWebServices.dll.config
+C:\Users\bill\Desktop\Δικτυοκεντρικά FINAL\BitcoinExchange\FoundationWebServices\bin\FoundationWebServices.dll
+C:\Users\bill\Desktop\Δικτυοκεντρικά FINAL\BitcoinExchange\FoundationWebServices\bin\FoundationWebServices.pdb
+C:\Users\bill\Desktop\Δικτυοκεντρικά FINAL\BitcoinExchange\FoundationWebServices\obj\Debug\FoundationWebServices.csproj.CoreCompileInputs.cache
+C:\Users\bill\Desktop\Δικτυοκεντρικά FINAL\BitcoinExchange\FoundationWebServices\obj\Debug\FoundationWebServices.dll
+C:\Users\bill\Desktop\Δικτυοκεντρικά FINAL\BitcoinExchange\FoundationWebServices\obj\Debug\FoundationWebServices.pdb
+F:\Desktop\Perasmena mathimata new\7-Diktiokentrika\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\FoundationWebServices\bin\FoundationWebServices.dll.config
+F:\Desktop\Perasmena mathimata new\7-Diktiokentrika\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\FoundationWebServices\bin\FoundationWebServices.dll
+F:\Desktop\Perasmena mathimata new\7-Diktiokentrika\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\FoundationWebServices\bin\FoundationWebServices.pdb
+F:\Desktop\Perasmena mathimata new\7-Diktiokentrika\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\FoundationWebServices\obj\Debug\FoundationWebServices.csprojResolveAssemblyReference.cache
+F:\Desktop\Perasmena mathimata new\7-Diktiokentrika\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\FoundationWebServices\obj\Debug\FoundationWebServices.csproj.CoreCompileInputs.cache
+F:\Desktop\Perasmena mathimata new\7-Diktiokentrika\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\FoundationWebServices\obj\Debug\FoundationWebServices.dll
+F:\Desktop\Perasmena mathimata new\7-Diktiokentrika\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\FoundationWebServices\obj\Debug\FoundationWebServices.pdb
+F:\Desktop\ERGASIA 2018\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\FoundationWebServices\bin\FoundationWebServices.dll.config
+F:\Desktop\ERGASIA 2018\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\FoundationWebServices\bin\FoundationWebServices.dll
+F:\Desktop\ERGASIA 2018\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\FoundationWebServices\bin\FoundationWebServices.pdb
+F:\Desktop\ERGASIA 2018\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\FoundationWebServices\obj\Debug\FoundationWebServices.csprojResolveAssemblyReference.cache
+F:\Desktop\ERGASIA 2018\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\FoundationWebServices\obj\Debug\FoundationWebServices.csproj.CoreCompileInputs.cache
+F:\Desktop\ERGASIA 2018\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\FoundationWebServices\obj\Debug\FoundationWebServices.dll
+F:\Desktop\ERGASIA 2018\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\FoundationWebServices\obj\Debug\FoundationWebServices.pdb
+F:\Desktop\Bitcoin Exchange App\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\FoundationWebServices\bin\FoundationWebServices.dll.config
+F:\Desktop\Bitcoin Exchange App\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\FoundationWebServices\bin\FoundationWebServices.dll
+F:\Desktop\Bitcoin Exchange App\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\FoundationWebServices\bin\FoundationWebServices.pdb
+F:\Desktop\Bitcoin Exchange App\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\FoundationWebServices\obj\Debug\FoundationWebServices.csprojResolveAssemblyReference.cache
+F:\Desktop\Bitcoin Exchange App\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\FoundationWebServices\obj\Debug\FoundationWebServices.csproj.CoreCompileInputs.cache
+F:\Desktop\Bitcoin Exchange App\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\FoundationWebServices\obj\Debug\FoundationWebServices.dll
+F:\Desktop\Bitcoin Exchange App\ERGASIA 2018\Απαλλακτική Εργασία\BitcoinExchange\FoundationWebServices\obj\Debug\FoundationWebServices.pdb
+F:\Desktop\Projects\Bitcoin Exchange\BitcoinExchange\FoundationWebServices\bin\FoundationWebServices.dll.config
+F:\Desktop\Projects\Bitcoin Exchange\BitcoinExchange\FoundationWebServices\bin\FoundationWebServices.dll
+F:\Desktop\Projects\Bitcoin Exchange\BitcoinExchange\FoundationWebServices\bin\FoundationWebServices.pdb
+F:\Desktop\Projects\Bitcoin Exchange\BitcoinExchange\FoundationWebServices\obj\Debug\FoundationWebServices.csprojResolveAssemblyReference.cache
+F:\Desktop\Projects\Bitcoin Exchange\BitcoinExchange\FoundationWebServices\obj\Debug\FoundationWebServices.csproj.CoreCompileInputs.cache
+F:\Desktop\Projects\Bitcoin Exchange\BitcoinExchange\FoundationWebServices\obj\Debug\FoundationWebServices.dll
+F:\Desktop\Projects\Bitcoin Exchange\BitcoinExchange\FoundationWebServices\obj\Debug\FoundationWebServices.pdb
+D:\Desktop\Bitcoin Exchange C#\BitcoinExchange\FoundationWebServices\bin\FoundationWebServices.dll.config
+D:\Desktop\Bitcoin Exchange C#\BitcoinExchange\FoundationWebServices\bin\FoundationWebServices.dll
+D:\Desktop\Bitcoin Exchange C#\BitcoinExchange\FoundationWebServices\bin\FoundationWebServices.pdb
+D:\Desktop\Bitcoin Exchange C#\BitcoinExchange\FoundationWebServices\obj\Debug\FoundationWebServices.csprojAssemblyReference.cache
+D:\Desktop\Bitcoin Exchange C#\BitcoinExchange\FoundationWebServices\obj\Debug\FoundationWebServices.csproj.CoreCompileInputs.cache
+D:\Desktop\Bitcoin Exchange C#\BitcoinExchange\FoundationWebServices\obj\Debug\FoundationWebServices.dll
+D:\Desktop\Bitcoin Exchange C#\BitcoinExchange\FoundationWebServices\obj\Debug\FoundationWebServices.pdb
+D:\Desktop\Bitcoin Exchange C#\FoundationWebServices\bin\FoundationWebServices.dll.config
+D:\Desktop\Bitcoin Exchange C#\FoundationWebServices\bin\FoundationWebServices.dll
+D:\Desktop\Bitcoin Exchange C#\FoundationWebServices\bin\FoundationWebServices.pdb
+D:\Desktop\Bitcoin Exchange C#\FoundationWebServices\obj\Debug\FoundationWebServices.csprojAssemblyReference.cache
+D:\Desktop\Bitcoin Exchange C#\FoundationWebServices\obj\Debug\FoundationWebServices.csproj.CoreCompileInputs.cache
+D:\Desktop\Bitcoin Exchange C#\FoundationWebServices\obj\Debug\FoundationWebServices.dll
+D:\Desktop\Bitcoin Exchange C#\FoundationWebServices\obj\Debug\FoundationWebServices.pdb
+D:\Desktop\Bitcoin Exchange C#\Bitcoin Exchange C#\FoundationWebServices\bin\FoundationWebServices.dll.config
+D:\Desktop\Bitcoin Exchange C#\Bitcoin Exchange C#\FoundationWebServices\bin\FoundationWebServices.dll
+D:\Desktop\Bitcoin Exchange C#\Bitcoin Exchange C#\FoundationWebServices\bin\FoundationWebServices.pdb
+D:\Desktop\Bitcoin Exchange C#\Bitcoin Exchange C#\FoundationWebServices\obj\Debug\FoundationWebServices.csprojAssemblyReference.cache
+D:\Desktop\Bitcoin Exchange C#\Bitcoin Exchange C#\FoundationWebServices\obj\Debug\FoundationWebServices.csproj.CoreCompileInputs.cache
+D:\Desktop\Bitcoin Exchange C#\Bitcoin Exchange C#\FoundationWebServices\obj\Debug\FoundationWebServices.dll
+D:\Desktop\Bitcoin Exchange C#\Bitcoin Exchange C#\FoundationWebServices\obj\Debug\FoundationWebServices.pdb

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="77d196c8-8c76-49e6-be47-740458ac935c" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="a5cef63e-fb8e-48b3-a6fe-b85038252a74" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
   <ClientOptions>
     <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
     <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
@@ -22,10 +22,10 @@
     <MetadataSource Address="http://localhost:6174/UpdateUsdBalance.svc" Protocol="http" SourceId="1" />
   </MetadataSources>
   <Metadata>
-    <MetadataFile FileName="UpdateUsdBalance.disco" MetadataType="Disco" ID="f22d6e0b-b7cf-4d19-966c-c14456629e93" SourceId="1" SourceUrl="http://localhost:6174/UpdateUsdBalance.svc?disco" />
-    <MetadataFile FileName="UpdateUsdBalance.xsd" MetadataType="Schema" ID="34236cd3-3846-4a1e-9ebf-3ed39c5a5123" SourceId="1" SourceUrl="http://localhost:6174/UpdateUsdBalance.svc?xsd=xsd0" />
-    <MetadataFile FileName="UpdateUsdBalance1.xsd" MetadataType="Schema" ID="a3ce8f9f-f466-4467-962b-68ceb31688b4" SourceId="1" SourceUrl="http://localhost:6174/UpdateUsdBalance.svc?xsd=xsd1" />
-    <MetadataFile FileName="UpdateUsdBalance.wsdl" MetadataType="Wsdl" ID="7feddd16-644a-4962-b5d7-974228f75292" SourceId="1" SourceUrl="http://localhost:6174/UpdateUsdBalance.svc?wsdl" />
+    <MetadataFile FileName="UpdateUsdBalance.disco" MetadataType="Disco" ID="c054ccf6-ee21-4f07-940e-417b92c449a7" SourceId="1" SourceUrl="http://localhost:6174/UpdateUsdBalance.svc?disco" />
+    <MetadataFile FileName="UpdateUsdBalance.xsd" MetadataType="Schema" ID="8dad51fc-effa-4e5b-99c1-338dd667a909" SourceId="1" SourceUrl="http://localhost:6174/UpdateUsdBalance.svc?xsd=xsd0" />
+    <MetadataFile FileName="UpdateUsdBalance1.xsd" MetadataType="Schema" ID="9ccf563c-bd65-4e71-b2e2-aa97481cea07" SourceId="1" SourceUrl="http://localhost:6174/UpdateUsdBalance.svc?xsd=xsd1" />
+    <MetadataFile FileName="UpdateUsdBalance.wsdl" MetadataType="Wsdl" ID="0bbe3da0-6135-463c-a614-eae4835ca0b7" SourceId="1" SourceUrl="http://localhost:6174/UpdateUsdBalance.svc?wsdl" />
   </Metadata>
   <Extensions>
     <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
